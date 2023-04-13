@@ -10,7 +10,7 @@ Material:
   m_Name: AsyncAwait
   m_Shader: {fileID: -6465566751694194690, guid: 7e0669280c5a34f2bb97832a1c1766e8, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 7e0669280c5a34f2bb97832a1c1766e8, type: 3}
-  m_ModifiedSerializedProperties: 16
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ENABLE_FOG_ON_TRANSPARENT
   - _SURFACE_TYPE_TRANSPARENT
@@ -41,7 +41,7 @@ Material:
     - _DstBlend: 1
     - _ZTestDepthEqualForOpaque: 4
     m_Colors:
-    - _Color: {r: 0.02008198, g: 0.13639846, b: 0.28382537, a: 1}
+    - _Color: {r: 25.68894, g: 1.4642689, b: 2.8891702, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2404980914084548090
 MonoBehaviour:
