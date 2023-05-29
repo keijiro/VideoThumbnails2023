@@ -10,7 +10,7 @@ Material:
   m_Name: AsyncAwait
   m_Shader: {fileID: -6465566751694194690, guid: 7e0669280c5a34f2bb97832a1c1766e8, type: 3}
   m_Parent: {fileID: -876546973899608171, guid: 7e0669280c5a34f2bb97832a1c1766e8, type: 3}
-  m_ModifiedSerializedProperties: 0
+  m_ModifiedSerializedProperties: 16
   m_ValidKeywords:
   - _ENABLE_FOG_ON_TRANSPARENT
   - _SURFACE_TYPE_TRANSPARENT
